@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reposteria</string>
+    <string name="todo">todo</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtDireccion">Direccion</string>
+    <string name="txtPedido">Pedido</string>
+    <string name="entregaP">Entregar Pedido</string>
+    <string name="terminadosTitulo">Pedidos Terminados</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="actTermina">Pedidos Terminados</string>
+    <string name="btnEntrega">Ver Pedidos a Entregar</string>
+    <string name="btnTermina">Ver pedidos Terminados</string>
+    <string name="actEntrega">Pedidos En Entrega</string>
+</resources>
